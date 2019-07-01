@@ -12,6 +12,8 @@ O evento tem **entrada franca**, porém os participantes são encorajados a doar
 
 Os alimentos são recebidos no momento do credenciamento.
 
+<center><a href="https://santoangelo.tchelinux.org/inscricoes/" style="color:#ff4040"><b>Clique aqui e faça sua inscrição!</b></a></center>
+
 ## Certificados
 
 Serão fornecidos certificados digitais para os participantes do evento, que confirmaram sua presença. Para obtê-los, você deverá utilizar o email fornecido na sua inscrição para o evento.
