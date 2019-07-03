@@ -45,7 +45,7 @@ O Software Livre está em todo o lugar: além de viabilizar a Internet e a cloud
 
 ### Leonardo Vaz
 
-Leonardo Vaz usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
+[Leonardo Vaz](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
 
 ### O que mudou ao longo de 25 anos trabalhando com Software Livre? 
 
@@ -53,14 +53,15 @@ Uma revisão histórica do que mudou na tecnologia e no mercado de trabalho desd
 
 ### Carlos Santos
 
-Carlos Santos é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
+[Carlos Santos](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
 
-### Porque e Como Participar de Projetos Open Source 
+### Porque e Como Participar de Projetos Open Source
+ 
 No mundo atual, todos usam pelo menos um aplicativo open source. Mas como participar disso? Como ajudar o aplicativo a melhorar? É preciso saber programar para ajudar? Essas e outras perguntas serão respondidas nessa apresentação.
 
 ### Julio Biason 
 
-Julio Biason participa de projetos open source desde 1990.
+[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
 
 ### Porque Você Deve Aprender Rust 
 
@@ -68,7 +69,7 @@ Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a mem
 
 ### Julio Biason 
 
-Julio Biason é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust. 
+[Julio Biason](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust. 
 
 ### Porque migramos nossa infraestrutura para Proxmox VE?
 
@@ -76,7 +77,7 @@ Nesta apresentação explicaremos como conhecendo o Proxmox e o motivo que nos f
 
 ### Alexandre Aguirre 
 
-Alexandre Aguirre é sócio proprietário da H3Ti, trabalha com infraestrutura a 8 anos e é amante do software livre. Possui certificações nas seguintes soluções: MCP Microsoft, LPI-1, VCP-1 VMware, UEWA - Ubiquiti Enterprise Wireless Admin, e apaixonado por Games
+[Alexandre Aguirre](http://www.h3ti.com.br) é sócio proprietário da H3Ti, trabalha com infraestrutura a 8 anos e é amante do software livre. Possui certificações nas seguintes soluções: MCP Microsoft, LPI-1, VCP-1 VMware, UEWA - Ubiquiti Enterprise Wireless Admin, e apaixonado por Games
 
 ### Tentar dominar o mundo! 
 
@@ -84,7 +85,7 @@ Vou apresentar minha trajetória no Python e DevOps usando como referência trab
 
 ### Luciano Camargo Cruz
 
-Luciano Camargo Cruz é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
+[Luciano Camargo Cruz](https://github.com/lccruz) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
 
 ### Python para iniciantes 
 
@@ -92,7 +93,7 @@ Como aprender Python partindo do zero usando apenas recursos online e livros
 
 ### Adriano Margarin
 
-Adriano Margarin é Empreendedor e palestrante, divide suas experiências com o intuito de contribuir para a transformação de comunidades de software livre, ideias e atualizações do mercado no cenário da tecnologia.
+[Adriano Margarin](https://twitter.com/adrianomargarin) é Empreendedor e palestrante, divide suas experiências com o intuito de contribuir para a transformação de comunidades de software livre, ideias e atualizações do mercado no cenário da tecnologia.
 
 Graduado em sistemas de informação, é desenvolvedor WEB e atua como consultor no setor. O foco reside em melhoras de desempenho, tempo de execução, expertise e conhecimento em desenvolvimento de software e suas aplicações.
 
@@ -105,15 +106,15 @@ O Ansible é um mecanismo de automação radicalmente simples que automatiza o p
 
 ### Leonardo Vaz 
 
-Leonardo Vaz usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
+[Leonardo Vaz](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
 
 ### Softwares Livres e o Ensino à Distância
 
-Demonstrar a importância do uso do software livre ( Linux e Moodle) no sistema de Ensino À Distância da Universidade Aberta do Brasil 
+Demonstrar a importância do uso do software livre (Linux e Moodle) no sistema de Ensino À Distância da Universidade Aberta do Brasil 
 
 ### Julio Roberto dos Santos Mallmann
 
-Julio Roberto dos Santos Mallmann é Licenciado em Ciências Biológicas, e possui Pós-Graduações em Pedagogia Gestora e em Filosofia. É  Professor da Rede Pública Municipal e Estadual a 16 anos, Coordenador Pedagógico no Polo da Universidade Aberta do Brasil a 3 anos, Assistente à Docência (bolsista CAPES) no POLO UAB Cruz Alta
+[Julio Roberto dos Santos Mallmann](https://www.facebook.com/julio.mallmann.9) é Licenciado em Ciências Biológicas, e possui Pós-Graduações em Pedagogia Gestora e em Filosofia. É  Professor da Rede Pública Municipal e Estadual a 16 anos, Coordenador Pedagógico no Polo da Universidade Aberta do Brasil a 3 anos, Assistente à Docência (bolsista CAPES) no POLO UAB Cruz Alta
 
 ### Flask and you 
 
@@ -121,7 +122,7 @@ A ideia é apresentar o Flask de maneira geral, suas possíveis aplicações. Ut
 
 ### Luciano Camargo Cruz
 
-Luciano Camargo Cruz é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
+[Luciano Camargo Cruz](https://github.com/lccruz) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
 
 ### Fazer ou não fazer meu próprio SO, eis a questão
 
@@ -129,7 +130,7 @@ A palestra discutirá os prós e contras de construir ou não um SO personalizad
 
 ### Carlos Santos
 
-Carlos Santos é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
+[Carlos Santos](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
 
 ### Linux Desktop - O pinguim e o usuário final 
 
@@ -137,15 +138,15 @@ O objetivo da palestra é demonstrar que o usuário final pode utilizar distribu
 
 ### Cassiano Molinari Gomes
 
-Cassiano Molinari Gomes atual profissionalmente como Técnico Químico, também possui formação como técnico em informática e técnico em automação industrial. Acadêmico de Pedagogia e de Licenciatura em Computação. Entusiasta de Linux e da cultura Open Source, tradutor voluntário na distro Deepin para português do Brasil. Acredita que o compartilhamento do conhecimento e cultura é a melhor forma de contribuir para a melhorar a vida das pessoas e cumprir o papel social da ciência.
+[Cassiano Molinari Gomes](https://www.linkedin.com/in/cassiano-molinari-23932375/) atua profissionalmente como Técnico Químico, também possui formação como técnico em informática e técnico em automação industrial. Acadêmico de Pedagogia e de Licenciatura em Computação. Entusiasta de Linux e da cultura Open Source, tradutor voluntário na distro Deepin para português do Brasil. Acredita que o compartilhamento do conhecimento e cultura é a melhor forma de contribuir para a melhorar a vida das pessoas e cumprir o papel social da ciência.
 
 ### Filosofando Sobre Testes 
 
-O que é um "teste de unidade"? A unidade realmente existe? O que ela é? Essas perguntas todo desenvolvedor um dia se perguntou quando falou de TDD, e aqui vamos discutir um pouco do que é testar e o que os testes representam para o produto final.  
+O que é um "teste de unidade"? A unidade realmente existe? O que ela é? Essas perguntas todo desenvolvedor um dia se perguntou quando falou de TDD, e aqui vamos discutir um pouco do que é testar e o que os testes representam para o produto final.
 
 ### Julio Biason
 
-Julio Biason é desenvolvedor desde os 12 anos e já teve que lidar com vários formatos de testes desde então. 
+[Julio Biason](https://functional.cafe/@juliobiason) é desenvolvedor desde os 12 anos e já teve que lidar com vários formatos de testes desde então. 
 
 ### Pestest: Uma carreira necessária  
 
@@ -153,7 +154,7 @@ Hoje temos invasões nos nossos aparelhos pessoais de formas inimagináveis. Mas
 
 ### Iuri Nascimento Santos
 
-Iuri Nascimento Santos, Acadêmico de Licenciatura em Computação, cursando o 7° semestre, tendo passado por várias empresas, dentre elas uma WebTV, hoje está atuando como estagiário no setor de Tecnologia da Informação no Instituto Federal Farroupilha, campus Santo Augusto, sendo o mesmo campus que estuda. Também atua numa Startup, no seguimento de Software House, na qual faz a programação front-end dos sistemas que desenvolvemos com HTML, CSS e PHP.
+[Iuri Nascimento Santos](https://facebook.com/opaimon) é Acadêmico de Licenciatura em Computação, cursando o 7° semestre, tendo passado por várias empresas, dentre elas uma WebTV, hoje está atuando como estagiário no setor de Tecnologia da Informação no Instituto Federal Farroupilha, campus Santo Augusto, sendo o mesmo campus que estuda. Também atua numa Startup, no seguimento de Software House, na qual faz a programação front-end dos sistemas que desenvolvemos com HTML, CSS e PHP.
 
 ### Stellarium: um planetário no seu Desktop 
 
@@ -161,7 +162,7 @@ Já parou para observar o céu numa noite estrelada? Teve curiosidade de saber o
 
 ### Leonardo Vaz 
 
-Leonardo Vaz usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
+[Leonardo Vaz](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
 
 ## Local
 
