@@ -153,7 +153,7 @@ Hoje temos invasões nos nossos aparelhos pessoais de formas inimagináveis. Mas
 
 ### Iuri Nascimento Santos
 
-Iuri Nascimento Santos é aluno do IFFar de Santo Augusto.
+Iuri Nascimento Santos, Acadêmico de Licenciatura em Computação, cursando o 7° semestre, tendo passado por várias empresas, dentre elas uma WebTV, hoje está atuando como estagiário no setor de Tecnologia da Informação no Instituto Federal Farroupilha, campus Santo Augusto, sendo o mesmo campus que estuda. Também atua numa Startup, no seguimento de Software House, na qual faz a programação front-end dos sistemas que desenvolvemos com HTML, CSS e PHP.
 
 ### Stellarium: um planetário no seu Desktop 
 
