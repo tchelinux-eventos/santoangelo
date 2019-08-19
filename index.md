@@ -22,38 +22,23 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala 1 <br> Desenvolvimento </center> | <center> Sala 2 <br> DevOps, IoT e Segurança  </center> | <center> Sala 3 <br> Empreendedorismo, Comunidade e Aplicações </center> |
+| <center> Horário </center> | <center> Sala 1 <br> Desenvolvimento </center> | <center> Sala 2 <br> DevOps, SysAdmin e IoT </center> | <center> Sala 3 <br> Segurança, Comunidade e Aplicações </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
-| **09:20** <td colspan=4><center>[**Que é Software Livre e o que ele pode fazer por você?**](#Que_é_Software_Livre_e_o_que_ele_pode_fazer_por_você?)<br> <span class="label label-success">Principiante</span> <br>Leonardo Vaz<br></center> |
-| **10:00** <td colspan=4><center>[**O que mudou ao longo de 25 anos trabalhando com Software Livre?**](#O_que_mudou_ao_longo_de_25_anos_trabalhando_com_Software_Livre?) <br> <span class="label label-success">Principiante</span> <br> Carlos Santos | 
-| **11:00** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | 
+| **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
+| **10:00** <td colspan=4><center>[**O que mudou ao longo de 25 anos trabalhando com Software Livre?**](#O_que_mudou_ao_longo_de_25_anos_trabalhando_com_Software_Livre?) <br> <span class="label label-success">Principiante</span> <br> Carlos Santos | [**Pestest: Uma carreira necessária **](#Pestest:_Uma_carreira_necessária) <br> <span class="label label-warning">Intermediário</span> <br> Iuri Nascimento Santos |
+| **11:00** <td colspan=4><center> 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
 | **13:30** |  [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Porque migramos nossa infraestrutura para Proxmox VE?**](#Porque_migramos_nossa_infraestrutura_para_Proxmox_VE?) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Aguirre |  [**Tentar dominar o mundo!**](#Tentar_dominar_o_mundo!) <br> <span class="label label-success">Principiante</span> <br> Luciano Camargo Cruz | 
 | **14:20** |  [**Python para iniciantes**](#Python_para_iniciantes) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Introdução ao Ansible**](#Introdução_ao_Ansible) <br> <span class="label label-warning">Intermediário</span> <br> Leonardo Vaz |  [**Softwares Livres e o Ensino à Distância**](#Softwares_Livres_e_o_Ensino_à_Distância) <br> <span class="label label-success">Principiante</span> <br> Julio Roberto dos Santos Mallmann | 
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** |  [**Flask and you**](#Flask_and_you) <br> <span class="label label-warning">Intermediário</span> <br> Luciano Camargo Cruz |  [**Fazer ou não fazer meu próprio SO, eis a questão**](#Fazer_ou_não_fazer_meu_próprio_SO,_eis_a_questão) <br> <span class="label label-warning">Intermediário</span> <br> Carlos Santos |  [**Linux Desktop - O pinguim e o usuário final**](#Linux_Desktop_-_O_pinguim_e_o_usuário_final) <br> <span class="label label-success">Principiante</span> <br> Cassiano Molinari Gomes | 
-| **16:30** |  [**Filosofando Sobre Testes**](#Filosofando_Sobre_Testes) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Pestest: Uma carreira necessária **](#Pestest:_Uma_carreira_necessária) <br> <span class="label label-warning">Intermediário</span> <br> Iuri Nascimento Santos |  [**Stellarium: um planetário no seu Desktop**](#Stellarium:_um_planetário_no_seu_Desktop) <br> <span class="label label-success">Principiante</span> <br> Leonardo Vaz | 
+| **16:30** |  [**Filosofando Sobre Testes**](#Filosofando_Sobre_Testes) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Monitoramento de equipamentos em infraestrutura de rede com Zabbix**](#Monitoramento_de_equipamentos_em_infraestrutura_de_rede_com_Zabbix) <br> <span class="label label-warning">Intermediário</span> <br> Rafael Barasuol Rohden | [**Stellarium: um planetário no seu Desktop**](#Stellarium:_um_planetário_no_seu_Desktop) <br> <span class="label label-success">Principiante</span> <br> Leonardo Vaz | 
 | **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
+
 ## Palestras
-
-### Que é Software Livre e o que ele pode fazer por você?
-
-O Software Livre está em todo o lugar: além de viabilizar a Internet e a cloud, ele está no celular e tablets no bolso de bilhões de seres humanos, em dispositivos embarcados, computadores, servidores e em praticamente todos os supercomputadores usados em pesquisas para o avanço da ciência. Nesta apresentação serão vistos brevemente conceitos importantes sobre o Software Livre e como ele pode te ajudar na tua jornada profissional.
-
-### Leonardo Vaz
-
-[Leonardo Vaz](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
-
-### O que mudou ao longo de 25 anos trabalhando com Software Livre? 
-
-Uma revisão histórica do que mudou na tecnologia e no mercado de trabalho desde que o software livre rompeu os limites do meio acadêmico e científico e se disseminou no Brasil, a partir do início dos anos 90. 
-
-### Carlos Santos
-
-[Carlos Santos](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
 
 ### Porque e Como Participar de Projetos Open Source
  
@@ -61,23 +46,15 @@ No mundo atual, todos usam pelo menos um aplicativo open source. Mas como partic
 
 ### Julio Biason 
 
-[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
+[**Julio Biason**](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
 
-### Porque Você Deve Aprender Rust 
+### O que mudou ao longo de 25 anos trabalhando com Software Livre? 
 
-Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a memória é protegida. Trazendo muitas das funcionalidades de linguagens funcionais, com abstrações de alto nível e performance semelhante a C, Rust é uma linguagem que você realmente deve aprender.
+Uma revisão histórica do que mudou na tecnologia e no mercado de trabalho desde que o software livre rompeu os limites do meio acadêmico e científico e se disseminou no Brasil, a partir do início dos anos 90. 
 
-### Julio Biason 
+### Carlos Santos
 
-[Julio Biason](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust. 
-
-### Porque migramos nossa infraestrutura para Proxmox VE?
-
-Nesta apresentação explicaremos como conhecendo o Proxmox e o motivo que nos fez decidir migrar. Falaremos também sobre storages distribuídos usando Ceph, recursos incríveis de alta-disponibilidade, a dinâmica da interface GUI e responder a pergunta que todos fazem: "Valeu a pena mudar para essa solução?"
-
-### Alexandre Aguirre 
-
-[Alexandre Aguirre](http://www.h3ti.com.br) é sócio proprietário da H3Ti, trabalha com infraestrutura a 8 anos e é amante do software livre. Possui certificações nas seguintes soluções: MCP Microsoft, LPI-1, VCP-1 VMware, UEWA - Ubiquiti Enterprise Wireless Admin, e apaixonado por Games
+[**Carlos Santos**](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
 
 ### Tentar dominar o mundo! 
 
@@ -85,63 +62,23 @@ Vou apresentar minha trajetória no Python e DevOps usando como referência trab
 
 ### Luciano Camargo Cruz
 
-[Luciano Camargo Cruz](https://github.com/lccruz) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
+[**Luciano Camargo Cruz**](https://github.com/lccruz) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
 
-### Python para iniciantes 
+### Porque Você Deve Aprender Rust 
 
-Como aprender Python partindo do zero usando apenas recursos online e livros 
+Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a memória é protegida. Trazendo muitas das funcionalidades de linguagens funcionais, com abstrações de alto nível e performance semelhante a C, Rust é uma linguagem que você realmente deve aprender.
 
 ### Julio Biason 
 
-[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
+[**Julio Biason**](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust. 
 
-### Introdução ao Ansible 
+### Porque migramos nossa infraestrutura para Proxmox VE?
 
-O Ansible é um mecanismo de automação radicalmente simples que automatiza o provisionamento em nuvem, o gerenciamento de configuração, a implantação de aplicativos, a orquestração entre serviços e muitas outras necessidades. Nesta apresentação será abordada a arquitetura do Ansible e alguns exemplos de como utilizá-lo para automatização de tarefas pós-instalação. 
+Nesta apresentação explicaremos como conhecendo o Proxmox e o motivo que nos fez decidir migrar. Falaremos também sobre storages distribuídos usando Ceph, recursos incríveis de alta-disponibilidade, a dinâmica da interface GUI e responder a pergunta que todos fazem: "Valeu a pena mudar para essa solução?"
 
-### Leonardo Vaz 
+### Alexandre Aguirre 
 
-[Leonardo Vaz](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
-
-### Softwares Livres e o Ensino à Distância
-
-Demonstrar a importância do uso do software livre (Linux e Moodle) no sistema de Ensino À Distância da Universidade Aberta do Brasil 
-
-### Julio Roberto dos Santos Mallmann
-
-[Julio Roberto dos Santos Mallmann](https://www.facebook.com/julio.mallmann.9) é Licenciado em Ciências Biológicas, e possui Pós-Graduações em Pedagogia Gestora e em Filosofia. É  Professor da Rede Pública Municipal e Estadual a 16 anos, Coordenador Pedagógico no Polo da Universidade Aberta do Brasil a 3 anos, Assistente à Docência (bolsista CAPES) no POLO UAB Cruz Alta
-
-### Flask and you 
-
-A ideia é apresentar o Flask de maneira geral, suas possíveis aplicações. Utilizando um exemplo prático. 
-
-### Luciano Camargo Cruz
-
-[Luciano Camargo Cruz](https://github.com/lccruz) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
-
-### Fazer ou não fazer meu próprio SO, eis a questão
-
-A palestra discutirá os prós e contras de construir ou não um SO personalizado em vez de usar uma distribuição existente, já adaptada para sistemas embarcados. Será dado um exemplo de como fazer isso usando a ferramenta Buildroot. 
-
-### Carlos Santos
-
-[Carlos Santos](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
-
-### Linux Desktop - O pinguim e o usuário final 
-
-O objetivo da palestra é demonstrar que o usuário final pode utilizar distribuições linux user-friendly e aplicações livres para sua produtividade diária e lazer sem a necessidade de maiores conhecimentos técnicos, tanto em sua rotina pessoal como profissionalmente. Utilizando dados atuais de distros mais populares e resgate de experiências pessoais, apresentar o Linux como alternativa para migração do usuário final de sistemas operacionais proprietários. 
-
-### Cassiano Molinari Gomes
-
-[Cassiano Molinari Gomes](https://www.linkedin.com/in/cassiano-molinari-23932375/) atua profissionalmente como Técnico Químico, também possui formação como técnico em informática e técnico em automação industrial. Acadêmico de Pedagogia e de Licenciatura em Computação. Entusiasta de Linux e da cultura Open Source, tradutor voluntário na distro Deepin para português do Brasil. Acredita que o compartilhamento do conhecimento e cultura é a melhor forma de contribuir para a melhorar a vida das pessoas e cumprir o papel social da ciência.
-
-### Filosofando Sobre Testes 
-
-O que é um "teste de unidade"? A unidade realmente existe? O que ela é? Essas perguntas todo desenvolvedor um dia se perguntou quando falou de TDD, e aqui vamos discutir um pouco do que é testar e o que os testes representam para o produto final.
-
-### Julio Biason
-
-[Julio Biason](https://functional.cafe/@juliobiason) é desenvolvedor desde os 12 anos e já teve que lidar com vários formatos de testes desde então. 
+[**Alexandre Aguirre**](http://www.h3ti.com.br) é sócio proprietário da H3Ti, trabalha com infraestrutura a 8 anos e é amante do software livre. Possui certificações nas seguintes soluções: MCP Microsoft, LPI-1, VCP-1 VMware, UEWA - Ubiquiti Enterprise Wireless Admin, e apaixonado por Games
 
 ### Pestest: Uma carreira necessária  
 
@@ -149,7 +86,71 @@ Hoje temos invasões nos nossos aparelhos pessoais de formas inimagináveis. Mas
 
 ### Iuri Nascimento Santos
 
-[Iuri Nascimento Santos](https://facebook.com/opaimon) é Acadêmico de Licenciatura em Computação, cursando o 7° semestre, tendo passado por várias empresas, dentre elas uma WebTV, hoje está atuando como estagiário no setor de Tecnologia da Informação no Instituto Federal Farroupilha, campus Santo Augusto, sendo o mesmo campus que estuda. Também atua numa Startup, no seguimento de Software House, na qual faz a programação front-end dos sistemas que desenvolvemos com HTML, CSS e PHP.
+[**Iuri Nascimento Santos**](https://facebook.com/opaimon) é Acadêmico de Licenciatura em Computação, cursando o 7° semestre, tendo passado por várias empresas, dentre elas uma WebTV, hoje está atuando como estagiário no setor de Tecnologia da Informação no Instituto Federal Farroupilha, campus Santo Augusto, sendo o mesmo campus que estuda. Também atua numa Startup, no seguimento de Software House, na qual faz a programação front-end dos sistemas que desenvolvemos com HTML, CSS e PHP.
+
+### Python para iniciantes 
+
+Como aprender Python partindo do zero usando apenas recursos online e livros 
+
+### Julio Biason 
+
+[**Julio Biason**](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
+
+### Introdução ao Ansible 
+
+O Ansible é um mecanismo de automação radicalmente simples que automatiza o provisionamento em nuvem, o gerenciamento de configuração, a implantação de aplicativos, a orquestração entre serviços e muitas outras necessidades. Nesta apresentação será abordada a arquitetura do Ansible e alguns exemplos de como utilizá-lo para automatização de tarefas pós-instalação. 
+
+### Leonardo Vaz 
+
+[**Leonardo Vaz**](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
+
+### Softwares Livres e o Ensino à Distância
+
+Demonstrar a importância do uso do software livre (Linux e Moodle) no sistema de Ensino À Distância da Universidade Aberta do Brasil 
+
+### Julio Roberto dos Santos Mallmann
+
+[**Julio Roberto dos Santos Mallmann**](https://www.facebook.com/julio.mallmann.9) é Licenciado em Ciências Biológicas, e possui Pós-Graduações em Pedagogia Gestora e em Filosofia. É  Professor da Rede Pública Municipal e Estadual a 16 anos, Coordenador Pedagógico no Polo da Universidade Aberta do Brasil a 3 anos, Assistente à Docência (bolsista CAPES) no POLO UAB Cruz Alta
+
+### Flask and you 
+
+A ideia é apresentar o Flask de maneira geral, suas possíveis aplicações. Utilizando um exemplo prático. 
+
+### Luciano Camargo Cruz
+
+[**Luciano Camargo Cruz**](https://github.com/lccruz) é MBA em Gestão Estratégica de Tecnologia da Informação pela IMED. Bacharel em Ciência da Computação pela Universidade de Caxias do Sul, desenvolvedor de software, entusiasta GNU/Linux. Atualmente é Software Developer, DevOps e Team Leader na Contentools. É membro da Associação Python Brasil (APyB) e Plone Foundation.
+
+### Fazer ou não fazer meu próprio SO, eis a questão
+
+A palestra discutirá os prós e contras de construir ou não um SO personalizado em vez de usar uma distribuição existente, já adaptada para sistemas embarcados. Será dado um exemplo de como fazer isso usando a ferramenta Buildroot. 
+
+### Carlos Santos
+
+[**Carlos Santos**](https://www.linkedin.com/in/unixmania/) é Engenheiro agrícola, acredite quem quiser (UFPel, 1988), Pesquisador bolsista (EMBRAPA, 1989-1993), Programador e gerente de redes (CPMet/UFPel, provedores de serviços Internet, 1993-1999), Mestre em Ciência da Computação, na área de Computação Gráfica (UFRGS, 1998-2000), Professor de CG, programação e redes (URI, Santo Ângelo, 2001-2005), Engenheiro de software (HP, 2005-2013), Engenheiro de manutenção de software (Red Hat, 2013-2014), Arquiteto de software (DATACOM, 2014-2019) e Engenheiro de manutenção de software, de novo (Red Hat, 2019-).
+
+### Linux Desktop - O pinguim e o usuário final 
+
+O objetivo da palestra é demonstrar que o usuário final pode utilizar distribuições linux user-friendly e aplicações livres para sua produtividade diária e lazer sem a necessidade de maiores conhecimentos técnicos, tanto em sua rotina pessoal como profissionalmente. Utilizando dados atuais de distros mais populares e resgate de experiências pessoais, apresentar o Linux como alternativa para migração do usuário final de sistemas operacionais proprietários. 
+
+### Cassiano Molinari Gomes
+
+[**Cassiano Molinari Gomes**](https://www.linkedin.com/in/cassiano-molinari-23932375/) atua profissionalmente como Técnico Químico, também possui formação como técnico em informática e técnico em automação industrial. Acadêmico de Pedagogia e de Licenciatura em Computação. Entusiasta de Linux e da cultura Open Source, tradutor voluntário na distro Deepin para português do Brasil. Acredita que o compartilhamento do conhecimento e cultura é a melhor forma de contribuir para a melhorar a vida das pessoas e cumprir o papel social da ciência.
+
+### Filosofando Sobre Testes 
+
+O que é um "teste de unidade"? A unidade realmente existe? O que ela é? Essas perguntas todo desenvolvedor um dia se perguntou quando falou de TDD, e aqui vamos discutir um pouco do que é testar e o que os testes representam para o produto final.
+
+### Julio Biason
+
+[**Julio Biason**](https://functional.cafe/@juliobiason) é desenvolvedor desde os 12 anos e já teve que lidar com vários formatos de testes desde então. 
+
+### Monitoramento de equipamentos em infraestrutura de rede com Zabbix
+
+Zabbix é uma ferramenta que fornece recursos para monitoramento de diversos tipos de equipamentos em uma infraestrutura de rede. Veremos seu funcionamento com exemplos de um caso de uso real. Também será abordado o protocolo SNMP, a MIB de um equipamento, e recursos extras como a integração com Telegram.
+
+### Rafael Barasuol Rohden
+
+[**Rafael Barasuol Rohden**](https://br.linkedin.com/in/rafael-barasuol-rohden-54837720) é Formado em Informática - Sistemas de Informações (UNIJUI) e Mestre em Ciência da Computação (UFSM). Atua hoje como professor pela Universidade de Cruz Alta e é Analista de Informática na cooperativa de eletrificação rural, Ceriluz, em Ijuí.
 
 ### Stellarium: um planetário no seu Desktop 
 
@@ -157,7 +158,7 @@ Já parou para observar o céu numa noite estrelada? Teve curiosidade de saber o
 
 ### Leonardo Vaz 
 
-[Leonardo Vaz](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
+[**Leonardo Vaz**](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
 
 ## Local
 
