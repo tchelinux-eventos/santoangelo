@@ -12,7 +12,7 @@ O evento tem **entrada franca**, porém os participantes são encorajados a doar
 
 Os alimentos são recebidos no momento do credenciamento.
 
-<center><a href="https://santoangelo.tchelinux.org/inscricoes/" style="color:#ff4040"><b>Clique aqui e faça sua inscrição!</b></a></center>
+<center><a href="https://santoangelo.tchelinux.org/inscricoes/" style="color:#ff4040"><b><h3>Clique aqui e faça sua inscrição!<h3></b></a></center>
 
 ## Certificados
 
