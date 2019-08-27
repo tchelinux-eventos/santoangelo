@@ -2,7 +2,7 @@
 
 ## Sobre
 
-O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Regional Integrada do Alto Uruguai e das Missões Campus Santo Ângelo**](http://santoangelo.uri.br), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **31 de Agosto de 2019 a partir das 8:30h** na URI em Santo Ângelo.
+O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Regional Integrada do Alto Uruguai e das Missões Campus Santo Ângelo**](http://santoangelo.uri.br), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **31 de Agosto de 2019 a partir das 8:30h** no Prédio 28 (TecnoURI) na URI em Santo Ângelo.
 
 ## Inscrições
 
