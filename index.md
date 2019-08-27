@@ -22,13 +22,13 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala 1 <br> Desenvolvimento </center> | <center> Sala 2 <br> DevOps, SysAdmin e IoT </center> | <center> Sala 3 <br> Segurança, Comunidade e Aplicações </center> |
+| <center> Horário </center> | <center> Espaço Criativo <br> Desenvolvimento <br> <small>50 lugares</small> </center> | <center> Sala 28103 <br> DevOps, SysAdmin e IoT <br> <small>30 lugares</small> </center> | <center> Sala 28104 <br> Segurança, Comunidade e Aplicações  <br> <small>30 lugares</small> </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
-| **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
-| **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
-| **10:00** <td colspan=4><center>[**O que mudou ao longo de 25 anos trabalhando com Software Livre?**](#O_que_mudou_ao_longo_de_25_anos_trabalhando_com_Software_Livre?) <br> <span class="label label-success">Principiante</span> <br> Carlos Santos | 
-| **11:00** <td colspan=4><center> [**Tentar dominar o mundo!**](#Tentar_dominar_o_mundo!) <br> <span class="label label-success">Principiante</span> <br> Luciano Camargo Cruz | 
+| **09:00** <td colspan=4><center>**Abertura**<br> Auditório TecnoURI <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:20** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source) <br> Auditório TecnoURI <br> <span class="label label-success">Principiante</span> <br> Julio Biason |
+| **10:00** <td colspan=4><center>[**O que mudou ao longo de 25 anos trabalhando com Software Livre?**](#O_que_mudou_ao_longo_de_25_anos_trabalhando_com_Software_Livre?) <br> Auditório TecnoURI <br> <span class="label label-success">Principiante</span> <br> Carlos Santos | 
+| **11:00** <td colspan=4><center> [**Tentar dominar o mundo!**](#Tentar_dominar_o_mundo!) <br> Auditório TecnoURI <br> <span class="label label-success">Principiante</span> <br> Luciano Camargo Cruz | 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
 | **13:30** |  [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Porque migramos nossa infraestrutura para Proxmox VE?**](#Porque_migramos_nossa_infraestrutura_para_Proxmox_VE?) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Aguirre | [**Pestest: Uma carreira necessária **](#Pestest:_Uma_carreira_necessária) <br> <span class="label label-warning">Intermediário</span> <br> Iuri Nascimento Santos | 
 | **14:20** |  [**Python para iniciantes**](#Python_para_iniciantes) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Introdução ao Ansible**](#Introdução_ao_Ansible) <br> <span class="label label-warning">Intermediário</span> <br> Leonardo Vaz |  [**Softwares Livres e o Ensino à Distância**](#Softwares_Livres_e_o_Ensino_à_Distância) <br> <span class="label label-success">Principiante</span> <br> Julio Roberto dos Santos Mallmann | 
