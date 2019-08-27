@@ -178,6 +178,10 @@ Já parou para observar o céu numa noite estrelada? Teve curiosidade de saber o
 [![Ciência da Computação](images/logo_cc.png)](http://www.san.uri.br/graduacao/computacao/)
 [![Sistemas de Informação](images/logo_si.png)](http://www.urisan.tche.br/graduacao/sistemas/)
 
+### Patrocinador
+
+[![H3TI Segurança da Informação](images/logo_h3ti.png)](http://www.h3ti.com.br/)
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
