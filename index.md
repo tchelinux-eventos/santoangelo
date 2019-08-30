@@ -22,7 +22,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Espaço Criativo <br> Desenvolvimento <br> <small>50 lugares</small> </center> | <center> Sala 28103 <br> DevOps, SysAdmin e IoT <br> <small>30 lugares</small> </center> | <center> Sala 28104 <br> Segurança, Comunidade e Aplicações  <br> <small>30 lugares</small> </center> |
+| <center> Horário </center> | <center> Espaço Criativo <br> Desenvolvimento <br> <small>50 lugares</small> </center> | <center> Sala 28103 <br> DevOps, SysAdmin e IoT <br> <small>30 lugares</small> </center> | <center> Sala 28104 <br> Cases, Comunidade e Aplicações  <br> <small>30 lugares</small> </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:30** <td colspan=4><center>**Credenciamento**</center> |
 | **09:00** <td colspan=4><center>**Abertura**<br> Auditório TecnoURI <br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
