@@ -30,7 +30,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **10:00** <td colspan=4><center>[**O que mudou ao longo de 25 anos trabalhando com Software Livre?**](#O_que_mudou_ao_longo_de_25_anos_trabalhando_com_Software_Livre?) <br> Auditório TecnoURI <br> <span class="label label-success">Principiante</span> <br> Carlos Santos | 
 | **11:00** <td colspan=4><center> [**Tentar dominar o mundo!**](#Tentar_dominar_o_mundo!) <br> Auditório TecnoURI <br> <span class="label label-success">Principiante</span> <br> Luciano Camargo Cruz | 
 | **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
-| **13:30** |  [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Porque migramos nossa infraestrutura para Proxmox VE?**](#Porque_migramos_nossa_infraestrutura_para_Proxmox_VE?) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Aguirre | [**Pestest: Uma carreira necessária **](#Pestest:_Uma_carreira_necessária) <br> <span class="label label-warning">Intermediário</span> <br> Iuri Nascimento Santos | 
+| **13:30** | [**Porque Você Deve Aprender Rust**](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Construindo um Storage de baixo custo e escalável com ARM e Software Livre**](#Construindo_um_Storage_de_baixo_custo_e_escalável_com_ARM_e_Software_Livre) <br> <span class="label label-success">Principiante</span> <br> Leonardo Vaz | [**Porque migramos nossa infraestrutura para Proxmox VE?**](#Porque_migramos_nossa_infraestrutura_para_Proxmox_VE?) <br> <span class="label label-warning">Intermediário</span> <br> Alexandre Aguirre |
 | **14:20** |  [**Python para iniciantes**](#Python_para_iniciantes) <br> <span class="label label-success">Principiante</span> <br> Julio Biason |  [**Introdução ao Ansible**](#Introdução_ao_Ansible) <br> <span class="label label-warning">Intermediário</span> <br> Leonardo Vaz |  [**Softwares Livres e o Ensino à Distância**](#Softwares_Livres_e_o_Ensino_à_Distância) <br> <span class="label label-success">Principiante</span> <br> Julio Roberto dos Santos Mallmann | 
 | **15:10** <td colspan=4><center>**Coffee-Break**</center> |
 | **15:40** |  [**Flask and you**](#Flask_and_you) <br> <span class="label label-warning">Intermediário</span> <br> Luciano Camargo Cruz |  [**Fazer ou não fazer meu próprio SO, eis a questão**](#Fazer_ou_não_fazer_meu_próprio_SO,_eis_a_questão) <br> <span class="label label-warning">Intermediário</span> <br> Carlos Santos |  [**Linux Desktop - O pinguim e o usuário final**](#Linux_Desktop_-_O_pinguim_e_o_usuário_final) <br> <span class="label label-success">Principiante</span> <br> Cassiano Molinari Gomes | 
@@ -72,6 +72,14 @@ Rust (a linguagem, não o jogo) é uma linguagem que produz código em que a mem
 
 [**Julio Biason**](https://functional.cafe/@juliobiason) é programador desde os 12 anos e já conheceu várias linguagens, mas nenhuma que fosse tão interessante quanto Rust. 
 
+### Construindo um Storage de baixo custo e escalável com ARM e Software Livre
+
+Placas ARM, discos e software livre são tudo que você precisa para montar uma solução de armazenamento escalável, suportando volumes distribuídos e replicados. Nesta apresentação, falaremos sobre o processo de montagem do hardware, a instalação e configuração de software, mostrando o que é possível realizar com software livre, uma boa ideia e algumas centenas de Reais.
+
+### Leonardo Vaz 
+
+[**Leonardo Vaz**](https://tchelinux.org) usa Software Livre desde 1998 e em 2006 ajudou a fundar a formação atual do Tchelinux junto com seus amigos.
+
 ### Porque migramos nossa infraestrutura para Proxmox VE?
 
 Nesta apresentação explicaremos como conhecendo o Proxmox e o motivo que nos fez decidir migrar. Falaremos também sobre storages distribuídos usando Ceph, recursos incríveis de alta-disponibilidade, a dinâmica da interface GUI e responder a pergunta que todos fazem: "Valeu a pena mudar para essa solução?"
@@ -79,14 +87,6 @@ Nesta apresentação explicaremos como conhecendo o Proxmox e o motivo que nos f
 ### Alexandre Aguirre 
 
 [**Alexandre Aguirre**](http://www.h3ti.com.br) é sócio proprietário da H3Ti, trabalha com infraestrutura a 8 anos e é amante do software livre. Possui certificações nas seguintes soluções: MCP Microsoft, LPI-1, VCP-1 VMware, UEWA - Ubiquiti Enterprise Wireless Admin, e apaixonado por Games
-
-### Pestest: Uma carreira necessária  
-
-Hoje temos invasões nos nossos aparelhos pessoais de formas inimagináveis. Mas as empresas passam pelo mesmo problema e pra isso precisamos de um especialista em segurança digital. Como é possível alguém da área de TI chegar ao cargo de segurança da informação? E o principal: O que faz um segurança da informação? 
-
-### Iuri Nascimento Santos
-
-[**Iuri Nascimento Santos**](https://facebook.com/opaimon) é Acadêmico de Licenciatura em Computação, cursando o 7° semestre, tendo passado por várias empresas, dentre elas uma WebTV, hoje está atuando como estagiário no setor de Tecnologia da Informação no Instituto Federal Farroupilha, campus Santo Augusto, sendo o mesmo campus que estuda. Também atua numa Startup, no seguimento de Software House, na qual faz a programação front-end dos sistemas que desenvolvemos com HTML, CSS e PHP.
 
 ### Python para iniciantes 
 
